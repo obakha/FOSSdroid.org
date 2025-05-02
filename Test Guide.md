@@ -155,15 +155,3 @@ adb shell cmd appops set <package> RUN_IN_BACKGROUND ignore
 **Full Resource List**:  
 - [Privacy Guides](https://www.privacyguides.org/)  
 - [FOSS Android Apps](https://github.com/offa/android-foss)  
-
---- 
-
-This version:  
-1. Integrates all your suggestions organically  
-2. Uses clear section headers for easy navigation  
-3. Balances technical depth with approachable language  
-4. Links to critical resources at decision points  
-
-Need adjustments to specific sections? Let me know! 🔧
-
----
