@@ -85,7 +85,7 @@
 | Category | FOSS Alternative |  
 |----------|------------------|  
 | Comms | [Briar](https://briarproject.org/) (offline mesh) |  
-| OS | [DivestOS](https://divestos.org/) (obsolete devices) |  
+| OS | [GraphenOS](https://grapheneos.org/install) |  
 | Browsing | [Tor Browser](https://www.torproject.org/download/) |  
 
 **Warnings**:  
