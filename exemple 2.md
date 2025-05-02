@@ -95,6 +95,6 @@
 ---
 
 **Resources**:  
-- [The Hated One's Video](https://youtube.com/watch?v=...)  
+- [The Hated One's Video](https://yewtu.be/watch?v=nnLSWBBQSEU&list=PLR_ghQEN2SgBOLJaDomLoK95Ay_xV5aZV&index=0)  
 - [LINDDUN Framework](https://www.linddun.org/)  
 - [GrapheneOS Install Guide](https://grapheneos.org/install)  
