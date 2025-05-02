@@ -9,8 +9,8 @@
 
 **Key Actions**:  
 - Remove preinstalled apps via [Universal Android Debloater](https://github.com/0x192/universal-android-debloater)  
-- Replace Chrome with [Mullvad Browser](https://mullvad.net/en/browser)  
-- Use [Aurora Store](https://auroraoss.com/) (anonymous mode)  
+- Replace Chrome with [Privacy Browser](https://f-droid.org/packages/com.stoutner.privacybrowser.standard/)  
+- Use [Aurora Store](https://f-droid.org/fr/packages/com.aurora.store/) (anonymous mode)  
 
 **Tools**:  
 | Category | FOSS Alternative |  
